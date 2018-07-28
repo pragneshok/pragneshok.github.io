@@ -261,7 +261,7 @@ body {
 
 #cell {
     display: table-cell;
-    padding: 5%;
+    padding: 10%;
     vertical-align: middle
 }
 
